@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace IndianStatesCensusAnalyserTesting
 {
-    public class Tests
+    public class Tests 
     {
         //UC1 - File Paths for indian state census
         string stateCensusFilePath = @"D:\RajeshBridgeLabz\Indian State Census Analyser\IndianCensusAnalyserProblem\IndianStateCensusAnalyser\IndianStateCensusAnalyser\CSVFiles\IndianPopulation.csv";
